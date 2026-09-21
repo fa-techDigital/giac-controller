@@ -1,0 +1,8 @@
+# Cartelle di build e file temporanei
+build/
+bin/
+layout/
+
+# File di sistema del Mac
+.DS_Store
+
